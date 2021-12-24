@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shivam-trading/static/css/main.de7aa0fb.css",
+    "main.js": "/Shivam-trading/static/js/main.47e35767.js",
+    "index.html": "/Shivam-trading/index.html",
+    "main.de7aa0fb.css.map": "/Shivam-trading/static/css/main.de7aa0fb.css.map",
+    "main.47e35767.js.map": "/Shivam-trading/static/js/main.47e35767.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de7aa0fb.css",
+    "static/js/main.47e35767.js"
+  ]
+}
