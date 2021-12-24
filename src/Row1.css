@@ -1,0 +1,34 @@
+
+.cardImg{
+    width: 286px;
+    height: 180px;
+    
+}
+
+.img_row{
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    /* overflow: scroll; */
+    overflow: hidden;
+    margin: 2px;
+    overflow-x: scroll;
+
+}
+.img_col{
+    justify-content: space-around;
+    
+    margin: 5px;
+    min-width: 300px;
+
+}
+
+.temp{
+    height: 100px;
+    width: 100px;
+    
+}
+.data{
+    text-align: center;
+    text-decoration: underline;
+}

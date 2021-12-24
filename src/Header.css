@@ -1,0 +1,10 @@
+.header{
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    z-index: 999;
+    justify-content: space-between; 
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+
+}
